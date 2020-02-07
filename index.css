@@ -1,0 +1,40 @@
+/*ntenoc-y/* CSS files add styling rules to your content */
+
+/*.master{
+  display:flex;
+  background-color:red;
+  
+}
+/*.imgs{
+  float:left;
+}
+.text{
+  float:right;
+}*/
+h1 {
+  font-family: 'Bebas Neue', cursive;
+  text-align:left;
+  padding:0px;
+  margin:0px;
+  width:920px;
+  font-size:42px;
+}
+img{
+  float:left;
+}
+p{
+  float:right;
+}
+/*button{
+  justify-content:flex;
+}
+
+button {
+    display: inline-block;
+    padding: 2 5px;
+    background: lightgray;
+    border: 5px outset lightgray;
+    cursor: default;
+    text-decoration:none;
+    color: black;
+}

@@ -1,0 +1,65 @@
+#gridContainer{
+  display: grid;
+  grid-template-columns: auto auto auto auto auto;
+  text-align: center;
+/*   width: 620px; */
+  height: 500px; 
+  width: 50%;
+/*   height:20%; */
+  margin:auto;
+  margin-top:-300px;
+  
+/*   display: flex; */
+  
+}
+.one{
+  border: 1px solid navy;
+  
+}
+
+#base, .policeImg{
+  width:  124px;
+  height: 100px;
+  border: 1px solid green;
+}
+
+button {
+    display: inline-block;
+    padding: 2 5px;
+    background: lightgray;
+    border: 5px outset lightgray;
+    cursor: default;
+    text-decoration:none;
+    color: black;
+}
+button:hover {
+    background: gray;
+}
+
+#eight, #thirteen, #eighteen{
+  background-color: green;
+}
+body{
+background-image:url("https://cdn.glitch.com/659a004c-b854-4d83-a61d-d6d9c501eb61%2FUntitled3_20200207110828.png?v=1581102592443"
+  );
+  }
+
+body{ 
+  font-family: verdana; 
+  font-size:12px; }
+
+    a{
+      text-decoration: none;
+      color:blue;
+      font-weight: bold;}
+
+    a:hover{
+      color: gray;
+      font-weight: bold;}
+
+    div#my-timer{
+      width: 200px;
+      background: lightblue; 
+      margin:left;
+      text-align: center;
+      padding:5px 0px 5px 0px;}
