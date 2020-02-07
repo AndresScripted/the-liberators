@@ -1,0 +1,39 @@
+ntenoc-y/* CSS files add styling rules to your content */
+
+body {
+  
+  margin: 2em;
+}
+
+h1 {
+  font-family: 'Bebas Neue', cursive;
+  text-align:right;
+  padding:0px;
+  margin:0px;
+  font-size:60px;
+}
+p{
+  justify-content:flex;
+  float:right;
+  width:920px;
+}
+img{
+  
+}ustiu
+button{
+  justify-content:flex;
+}
+
+button {
+    display: inline-block;
+    padding: 2 5px;
+    background: lightgray;
+    border: 5px outset lightgray;
+    cursor: default;
+    text-decoration:none;
+    color: black;
+}
+button:hover {
+    background: gray;
+}
+j
